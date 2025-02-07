@@ -1,63 +1,58 @@
-<h1 align="center"> To-Do-List-JavaScript </h1>
+### <h1 align="center">To-Do-List-JavaScript</h1>  
 
+(https://user-images.githubusercontent.com/77020164/221394835-eb92ac02-53e3-42bf-96ac-b5114eb543a6.gif)  
 
-![chrome-capture-2023-1-26 (1)](https://user-images.githubusercontent.com/77020164/221394835-eb92ac02-53e3-42bf-96ac-b5114eb543a6.gif)
+## **Loyiha Haqida**  
 
-## About The Project
+To-Do List loyihasi – foydalanuvchilarga bajarilishi kerak bo‘lgan vazifalar ro‘yxatini yaratish va boshqarish imkonini beruvchi oddiy veb-ilova. Toza va tushunarli interfeys orqali foydalanuvchilar tezda vazifalar qo‘shish, tahrirlash va o‘chirish, shuningdek, ularni bajarildi deb belgilashlari mumkin.  
+Ushbu loyiha JavaScript yordamida ishlab chiqilgan bo‘lib, DOM manipulyatsiyasi va hodisalarni tinglash (event listeners) kabi asosiy veb-ilova tushunchalarini namoyish etadi.  
 
-The To-Do List project is a simple web application that allows users to create and manage a list of tasks they need to complete. With a clean and intuitive interface, users can quickly add, edit, and delete tasks, as well as mark tasks as complete.
-This project is built with JavaScript and is a great example of a basic web application using DOM manipulation and event listeners.
+## **Blog**  
 
+Loyihani ishlab chiqish jarayoni va To-Do List loyihasi haqidagi fikrlarimiz bilan blog postimiz orqali tanishing:  
 
-## Blog
+* (https://www.codingninjas.com/codestudio/library/building-a-todo-list-using-javascript?utm_source=github&utm_medium=organic&utm_campaign=blog-building-a-todo-list-using-javascript)  
 
-Check out our project blog post for more information on the development process and our thoughts on the To Do List project:
+## **Boshlash**  
 
-* [To Do List Using JS](https://www.codingninjas.com/codestudio/library/building-a-todo-list-using-javascript?utm_source=github&utm_medium=organic&utm_campaign=blog-building-a-todo-list-using-javascript)
+Mahalliy nusxasini ishga tushirish uchun quyidagi oddiy bosqichlarni bajaring.  
 
+### **O‘rnatish**  
 
+Ushbu ilovani mahalliy kompyuteringizda ishga tushirish uchun repository’ni klonlashingiz kerak. Terminalda quyidagi buyruqlarni bajaring:  
 
-## Getting Started
+1. Repository’ni klonlash:  
+   `git clone https://github.com/CodeStudio-Content/To-Do-List-JavaScript.git`  
+2. Loyihaga o‘tish:  
+   `cd To-Do-List-JavaScript`  
 
-To get a local copy up and running follow these simple example steps.
+## **Foydalanish**  
 
-### Installation
+- `index.html` faylini brauzeringizda oching.  
 
-To run this application locally, you need to clone this repository to your local machine. You can do this by running the following command in your terminal:
-1. Clone the repo `https://github.com/CodeStudio-Content/To-Do-List-JavaScript.git` 
-2. `cd To-Do-List-JavaScript`
+### **1. Vazifa qo‘shish**  
+Vazifani ro‘yxatga qo‘shish uchun sahifaning yuqorisidagi kiritish maydoniga vazifa tavsifini yozing va "Qo‘shish" tugmasini bosing. Vazifa ro‘yxatga qo‘shiladi.  
 
+### **2. Vazifani tahrirlash**  
+Vazifani yangilash uchun uni bosing. Tahrirlash oynasi ochiladi va siz vazifa tavsifini o‘zgartirishingiz mumkin. O‘zgarishlarni saqlash uchun "Saqlash" tugmasini bosing.  
 
-## Usage
+### **3. Vazifani bajarildi deb belgilash**  
+Vazifa bajarildi deb belgilash uchun vazifa yonidagi katakchani (checkbox) bosing. Vazifa ustiga chiziq tortiladi va bajarilganligi ko‘rsatiladi.  
 
-- Open the index.html file in your browser
+### **4. Vazifani o‘chirish**  
+Vazifani o‘chirish uchun uning yonidagi "O‘chirish" tugmasini bosing. Bu vazifani ro‘yxatdan olib tashlaydi.  
 
-### 1. Adding a task
-To add a task to the to-do list, simply enter the task description in the input field at the top of the page and press the "Add" button. The task will be added to the list.
+## **Talablar**  
 
-### 2. Updating a task
-To update a task, click on the task you want to update. This will open a modal window where you can edit the task description. Once you have made your changes, click the "Save" button to update the task.
+- HTML  
+- CSS  
+- JavaScript  
 
-### 3. Completing a task
-To mark a task as complete, simply click the checkbox next to the task description. The task will be crossed out to indicate that it has been completed.
+## **Fayllar**  
 
-### 4. Deleting a task
-To delete a task, click the "Delete" button next to the task you want to delete. This will remove the task from the to-do list.
-
-
-## Requirements
-
-- HTML
-- CSS
-- Javascript
-
-
-## Files
-
-* `index.html` :
-     This is the main file that contains the html code for the To-Do List.
-* `style.css` :
-     This file contains the styling for the To-Do List.
-* `script.js` :
-     This file contains the logic for the To-Do List, including adding, editing, and deleting tasks, and filtering the task list.
-
+- `index.html` :  
+  To-Do List uchun HTML kodini o‘z ichiga olgan asosiy fayl.  
+- `style.css` :  
+  To-Do List dizayni va uslublari saqlanadigan fayl.  
+- `script.js` :  
+  To-Do List mantiqiy qismini o‘z ichiga oladi. Unda vazifalarni qo‘shish, tahrirlash, o‘chirish va saralash funksiyalari mavjud.
