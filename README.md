@@ -1,7 +1,5 @@
 ### <h1 align="center">To-Do-List-JavaScript</h1>  
 
-(https://user-images.githubusercontent.com/77020164/221394835-eb92ac02-53e3-42bf-96ac-b5114eb543a6.gif)  
-
 ## **Loyiha Haqida**  
 
 To-Do List loyihasi – foydalanuvchilarga bajarilishi kerak bo‘lgan vazifalar ro‘yxatini yaratish va boshqarish imkonini beruvchi oddiy veb-ilova. Toza va tushunarli interfeys orqali foydalanuvchilar tezda vazifalar qo‘shish, tahrirlash va o‘chirish, shuningdek, ularni bajarildi deb belgilashlari mumkin.  
@@ -11,7 +9,7 @@ Ushbu loyiha JavaScript yordamida ishlab chiqilgan bo‘lib, DOM manipulyatsiyas
 
 Loyihani ishlab chiqish jarayoni va To-Do List loyihasi haqidagi fikrlarimiz bilan blog postimiz orqali tanishing:  
 
-* (https://www.codingninjas.com/codestudio/library/building-a-todo-list-using-javascript?utm_source=github&utm_medium=organic&utm_campaign=blog-building-a-todo-list-using-javascript)  
+* (https://github.com/Tuxtamurod-Jurayev/TodoList))  
 
 ## **Boshlash**  
 
@@ -22,7 +20,7 @@ Mahalliy nusxasini ishga tushirish uchun quyidagi oddiy bosqichlarni bajaring.
 Ushbu ilovani mahalliy kompyuteringizda ishga tushirish uchun repository’ni klonlashingiz kerak. Terminalda quyidagi buyruqlarni bajaring:  
 
 1. Repository’ni klonlash:  
-   `git clone https://github.com/CodeStudio-Content/To-Do-List-JavaScript.git`  
+   `git clone https://github.com/Tuxtamurod-Jurayev/TodoList`  
 2. Loyihaga o‘tish:  
    `cd To-Do-List-JavaScript`  
 
